@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/dedeletakis-logo-icon.svg"
+ },
+ "source_md5": "feb3a73c6a988062906d2d1f83bae434",
+ "version": "680abfe8",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "49341a17cb5592b71be7158f9bc98415"
+ ],
+ "made": "2026-11-21"
+}
